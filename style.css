@@ -295,11 +295,8 @@
 }
 
 @media screen and (max-width: 425px){
-    .header{
-        width: 425px;
-    }
     .header__cont{
-        width: 425px;
+        width: 423px;
     }
 
     .header__logo{
@@ -313,7 +310,7 @@
     }
     
     .exe{
-        margin: 0 10px 0 0;
+        margin: 0 0 0 0;
         display: flex;
         color: #475658;
         font-family: 'Lato', sans-serif;
@@ -446,7 +443,7 @@
     }
 
     .footer__cont{
-        width: 425px;
+        width: 423px;
         height: 250px;
         margin: 351px 0 0 0;
         display: flex;
