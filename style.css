@@ -297,6 +297,8 @@
 @media screen and (max-width: 425px){
     .header__cont{
         width: 420px;
+        display: flex;
+        justify-content: space-around;
     }
 
     .header__logo{
