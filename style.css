@@ -296,7 +296,7 @@
 
 @media screen and (max-width: 425px){
     .header__cont{
-        width: 423px;
+        width: 425px;
     }
 
     .header__logo{
@@ -370,7 +370,7 @@
     }
 
     .insttruct__cont{
-        margin: 380px 0 0 0;
+        margin: 380px 0 0 10px;
         display: flex;
         flex-direction: column;
         z-index: 1;
@@ -443,7 +443,7 @@
     }
 
     .footer__cont{
-        width: 423px;
+        width: 425px;
         height: 250px;
         margin: 351px 0 0 0;
         display: flex;
