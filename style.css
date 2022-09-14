@@ -321,7 +321,7 @@
     }
 
     .baner__cont{
-        width: 425px;
+        width: 100vw;
         height: 480px;
         display: flex;
         flex-direction: column;
